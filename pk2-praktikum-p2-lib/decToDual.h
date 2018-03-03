@@ -1,0 +1,1 @@
+void printDecToDual(int x);

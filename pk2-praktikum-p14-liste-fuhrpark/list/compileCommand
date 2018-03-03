@@ -1,0 +1,1 @@
+csc /t:exe /out:LinkedList.exe Hauptprogramm.cs LinkedList.cs Iterator.cs

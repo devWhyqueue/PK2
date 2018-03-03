@@ -1,0 +1,1 @@
+csc /t:exe /out:RemoteControl.exe Hauptprogramm.cs Command.cs CdPlayer.cs CdStart.cs CdStopp.cs Garagentor.cs GaragentorHoch.cs GaragentorRunter.cs RemoteControl.cs WrongDeviceNumberException.cs

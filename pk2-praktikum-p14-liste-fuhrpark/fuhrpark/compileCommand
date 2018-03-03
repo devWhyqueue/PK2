@@ -1,0 +1,1 @@
+csc /t:exe /out:Fuhrpark.exe Hauptprogramm.cs ../list/LinkedList.cs ../list/Iterator.cs Auto.cs Fuhrpark.cs Info.cs

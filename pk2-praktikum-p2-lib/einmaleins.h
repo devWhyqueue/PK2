@@ -1,0 +1,1 @@
+void printEinmaleins(int von, int bis);
